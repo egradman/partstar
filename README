@@ -1,0 +1,22 @@
+PartStar 
+-----------
+
+An open-source robot kit for sorting hardware and other small parts.
+
+As an inventor with a small workshop, I often find myself with large bins of
+unsorted hardware: screws, bolts, nuts, resistors, etc.
+
+I aim to use an off-the-shelf webcam and some simple robotics to create a
+small-part hardware sorting machine. Users of this device can toss unsorted
+hardware into the hopper, and expect the robot to sort the hardware on
+user-specified criteria (a user-supplied computer will perform the
+computer-vision tasks and control the robot firmware.)
+
+Furthermore, it should be easy to train the device on new parts.
+Characteristics of new parts are shared through a public hosted database, so
+that the robot's ability to distinguish among commonly presented parts improves
+over time.
+
+The name is a play on "CoinStar," which performs the same function for coins. I
+don't know if that's "confusingly similar" enough to want to change the name.
+Your input is welcome!
